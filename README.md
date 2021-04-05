@@ -8,7 +8,7 @@
     composer require linmasahiro/bpscm
 
 ### Example (範例程式碼)
-[ExampleCode](https://linmasahiro.github.io/bpscm/example/)
+[ExampleCode](https://github.com/linmasahiro/bpscm/tree/master/example)
 
 ### release
     ver 1.0.0 : First Release!
