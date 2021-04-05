@@ -1,0 +1,24 @@
+{
+    "name": "linmasahiro/bpscm",
+    "description": "Taiwan Bpscm Invoice WebServiceAPI Library",
+    "keywords": ["bpscm","金財通"],
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lin Masahiro",
+            "email": "k80092@gmail.com",
+            "homepage": "https://linmasahiro.github.io/"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "linmasahiro\\Bpscm\\": "src/"
+        }
+    }
+}
